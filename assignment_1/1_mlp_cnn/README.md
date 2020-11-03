@@ -40,5 +40,5 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-html.envi
 
 
 ### Assignment update on 02.11.2020:
-Correction in Figure 1 and clarification of Question 4 a).
-
+* Correction in Figure 1 and clarification of Question 4 a).
+* The description of the ELU activation function has been moved from Section 1.1 to the end of Section 1.2.
